@@ -1,6 +1,6 @@
 # Samarth Patil
 
-![Uploading image.png…]()
+
 
  
 # 💫 About me:
