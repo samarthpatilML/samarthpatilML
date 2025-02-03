@@ -5,7 +5,7 @@
 🔭 Currently working on ML and OpenCV  
 👯 Looking to collaborate on Python  
 🤝 Seeking help with a startup project  
-🌱 Currently learning backend development
+🌱 Currently learning backend developmen something New 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@patil._.samarth)  
