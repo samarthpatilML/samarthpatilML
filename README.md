@@ -5,11 +5,11 @@
 🔭 Currently working on ML and OpenCV  
 👯 Looking to collaborate on Python  
 🤝 Seeking help with a startup project  
-🌱 Currently learning backend developmen s 
+🌱 Currently learning backend development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@patil._.samarth)  
-[Portfolio](https://samarth-portfolio-sigma.vercel.app/)
+[Portfolio](https://samarth-portfolio-info.vercel.app/)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -36,9 +36,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthpatilML&theme=neon&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpatilML&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📊 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=samarthpatilML&icon=6&color=4)](https://visitcount.itsvg.in)
 
----
 
-*Proudly created with GPRM* (https://gprm.itsvg.in)
