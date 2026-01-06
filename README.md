@@ -1,7 +1,7 @@
 # Samarth Patil
 
 ## 💫 About me:
-👨‍🔬 Exploring new technologies and developing business solutions  
+👨‍🔬 Exploring new technologie and developing business solutions  
 🔭 Currently working on ML and OpenCV  
 👯 Looking to collaborate on Python  
 🤝 Seeking help with a startup project  
