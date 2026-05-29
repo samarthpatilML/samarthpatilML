@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  $ whoami                                                ║
-║  > Samarth Patil — ML Engineer · CV · Backend Dev       ║
+║  > Samarth Patil — ML Engineer · Backend Dev       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
